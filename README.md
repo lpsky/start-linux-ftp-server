@@ -1,4 +1,4 @@
-##### linux ftp server
+##### a linux ftp server for beginner
 
 A mini linux ftpd developed in C program language on ubuntu 12.04, it is a multi-process framework server.
 

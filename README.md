@@ -1,6 +1,6 @@
 ##### linux ftp server
 
-A mini linux ftpd developed in C program language on ubuntu 12.04
+A mini linux ftpd developed in C program language on ubuntu 12.04, it is a multi-process framework server.
 
 如果发现PORT与PASV模式无法工作，可能原因是无法准确获取本地IP地址。可以尝试下面这种方法获取ip。
 
